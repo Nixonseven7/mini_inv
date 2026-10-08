@@ -1,0 +1,14 @@
+C:\Users\nixon.berglindstran\Desktop\skol code\mini_inv\mini_inv\bin\Debug\net9.0\mini_inv.exe
+C:\Users\nixon.berglindstran\Desktop\skol code\mini_inv\mini_inv\bin\Debug\net9.0\mini_inv.deps.json
+C:\Users\nixon.berglindstran\Desktop\skol code\mini_inv\mini_inv\bin\Debug\net9.0\mini_inv.runtimeconfig.json
+C:\Users\nixon.berglindstran\Desktop\skol code\mini_inv\mini_inv\bin\Debug\net9.0\mini_inv.dll
+C:\Users\nixon.berglindstran\Desktop\skol code\mini_inv\mini_inv\bin\Debug\net9.0\mini_inv.pdb
+C:\Users\nixon.berglindstran\Desktop\skol code\mini_inv\mini_inv\obj\Debug\net9.0\mini_inv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nixon.berglindstran\Desktop\skol code\mini_inv\mini_inv\obj\Debug\net9.0\mini_inv.AssemblyInfoInputs.cache
+C:\Users\nixon.berglindstran\Desktop\skol code\mini_inv\mini_inv\obj\Debug\net9.0\mini_inv.AssemblyInfo.cs
+C:\Users\nixon.berglindstran\Desktop\skol code\mini_inv\mini_inv\obj\Debug\net9.0\mini_inv.csproj.CoreCompileInputs.cache
+C:\Users\nixon.berglindstran\Desktop\skol code\mini_inv\mini_inv\obj\Debug\net9.0\mini_inv.dll
+C:\Users\nixon.berglindstran\Desktop\skol code\mini_inv\mini_inv\obj\Debug\net9.0\refint\mini_inv.dll
+C:\Users\nixon.berglindstran\Desktop\skol code\mini_inv\mini_inv\obj\Debug\net9.0\mini_inv.pdb
+C:\Users\nixon.berglindstran\Desktop\skol code\mini_inv\mini_inv\obj\Debug\net9.0\mini_inv.genruntimeconfig.cache
+C:\Users\nixon.berglindstran\Desktop\skol code\mini_inv\mini_inv\obj\Debug\net9.0\ref\mini_inv.dll
